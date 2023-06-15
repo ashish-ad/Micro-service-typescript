@@ -12,7 +12,7 @@
     "test": "npm run clean && npm run build && cross-env NODE_ENV=test jest --testTimeout=10000 --detectOpenHandles --silent=false --forceExit"
   },
   "keywords": ["Micro-service", "TypeScript", "Basic Folder Structure"],
-  "author": "",
+  "author": "ashishad14@gmail.com [ashish-ad]",
   "license": "ISC",
   "devDependencies": {
     "cross-env": "^7.0.3",
